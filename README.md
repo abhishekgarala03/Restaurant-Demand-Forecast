@@ -18,4 +18,4 @@ A time-series forecasting engine for restaurant demand that optimizes delivery p
 - ✅ **18%** fewer delivery partner shortages vs industry baseline
 - ✅ **14%** higher customer satisfaction through optimized staffing
 - ✅ **₹2.8L** monthly savings per 100 restaurants (at ₹150/partner-hour)
-- ✅ **Production-ready API** with business context (get_demand_forecast())
+- ✅ **Production-ready API** with business context (`get_demand_forecast()`)
